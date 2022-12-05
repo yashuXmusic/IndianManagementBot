@@ -1,16 +1,16 @@
 [zaidconfig]
 log = True
-APP_ID = 6435225
-API_HASH = 4e984ea35f854762dcde906dce426c2d
-TOKEN = Your Bot Token. @botfather
-OWNER_ID = 1669178360
-STRING_SESSION = telethon string Session @@StarkStringGenBot
-OWNER_USERNAME = Timesisnotwaiting
-SQLALCHEMY_DATABASE_URI = Your Database url from elephantsql.com, replace postgres to postgresql:your database url
-MESSAGE_DUMP = -1001509525202
-GBAN_LOGS = -1001509525202
-SYS_ADMIN = 1920507972
-DEV_USERS = 1920507972
+APP_ID = 17273188
+API_HASH = a2e5bb2b69d13ba7553941af16cc2d5b
+TOKEN = 5950341199:AAF5ghNkGHqbmf-4VIxZnBdMt94mz34ufv4
+OWNER_ID = 5956494225
+STRING_SESSION = AQByarGHtJyZxJC639ppzCFAeIpx7_eKspqQPpRqVeNeVoaz_Dj_aWcYtCsAmXq772SS5722QR3-FtU7ZesEUnhVuCJKFkf_NxK076j-sveUs3S_uz0XhwlBy0rQXjPyDfvsbGYa6sfQYpBb_PNvIILCaSNHkGagnWBzndVzoSMwEE5vFnwVTr2dI4jYyJUNOpWgqZuRuTy4Ghyc0ra4342zStFqT6lCB4XcQ2nR0L3NIrHOOYqsmbZxti5YA2oYB9MmJSWhu99HLYzhqgKrFVahHEeYQsEGOX8M2Spky3MZ3UZT0U6jgqouWJS_Lblh2RvlsxMBK2cQS_Y-99goCIBeAAAAAUQaO7AA
+OWNER_USERNAME = NULL_CODER_BOT
+SQLALCHEMY_DATABASE_URI = mongodb+srv://yashu:yashu@cluster0.z3ezqpd.mongodb.net/?retryWrites=true&w=majority postgresql:your database url
+MESSAGE_DUMP = 
+GBAN_LOGS = 
+SYS_ADMIN = 5956494225
+DEV_USERS = 5956494225
 LOAD =
 NO_LOAD = sed
 WEBHOOK = False
